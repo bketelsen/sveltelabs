@@ -1,0 +1,11 @@
+export { default as App } from "./App.svelte";
+export { default as SvelteLab} from './SvelteLab.svelte';
+export { default as SvelteLabStep } from './SvelteLabStep.svelte';
+export { default as SvelteLabCard} from './SvelteLabCard.svelte';
+export { default as SvelteLabCardList } from './SvelteLabCardList.svelte';
+
+// *****************************************
+// * Notice that the component is not instantiated and mounted to the document <body className="">
+// * Since the compiler is creating a custom element, we instead define and use the custom element
+// * in the index.html file to simulate the end-user experience.
+// ******************************************
