@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bketelsen/sveltelabs.git"
+    "url": "git://github.com/bketelsen/sveltelabs.git"
   },
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
