@@ -19,6 +19,7 @@
   ],
   "devDependencies": {
     "dom-testing-library": "^5.0.0",
+    "lodash": ">=4.17.13",
     "jest": "^24.8.0",
     "jest-dom": "^4.0.0",
     "jest-transform-svelte": "^2.0.2",

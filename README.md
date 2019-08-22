@@ -1,13 +1,9 @@
 
 # svelte-custom-element
 
-### A project template to build custom elements (web components) with [Svelte](https://svelte.technology). 
+A project template to build custom elements (web components) with [Svelte](https://svelte.technology). 
 
-## Table of Contents
-1. [Usage](#usage)
-2. [About this template](#about-this-template)
-3. [Gotchas](#gotchas)
-4. [Demo (alert-box)](#demo)
+
 
 ## Usage
 
