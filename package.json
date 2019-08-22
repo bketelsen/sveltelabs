@@ -1,11 +1,14 @@
 {
-  "name": "sveltelabs",
+  "name": "@bketelsen/sveltelabs",
   "version": "0.0.1",
   "author": "Brian Ketelsen <bketelsen@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bketelsen/sveltelabs.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
   },
   "bugs": {
     "url": "https://github.com/bketelsen/sveltelabs/issues"
